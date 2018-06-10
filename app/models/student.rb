@@ -25,7 +25,6 @@ class Student < ActiveRecord::Base
   #  else
     #  self.all
     #end
-  end
-
+  #end
 
 end
